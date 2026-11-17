@@ -1,0 +1,7 @@
+joint,description,rmse_rad,mae_rad,max_error_rad,rmse_deg,mae_deg,max_error_deg
+right_joint_1,Right hip ab/adduction,0.002201,0.000285,0.116069,0.126,0.016,6.65
+right_joint_2,Right hip flexion/extension,0.012829,0.001368,0.681678,0.735,0.078,39.06
+right_joint_4,Right ankle,0.006053,0.000672,0.334246,0.347,0.039,19.15
+left_joint_1,Left hip ab/adduction,0.003795,0.000359,0.200618,0.217,0.021,11.49
+left_joint_2,Left hip flexion/extension,0.011048,0.001302,0.547166,0.633,0.075,31.35
+left_joint_4,Left ankle,0.007694,0.000755,0.395362,0.441,0.043,22.65
